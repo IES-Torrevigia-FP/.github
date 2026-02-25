@@ -3,7 +3,7 @@ Repositorios pertenecientes al IES Torrevigía - Torrevieja
 
 ## Se trata de iniciar el primer repositorio personal y básico de cada estudiante.
 
-===================================================================================================================
+===
 
 # 🧭 Actividad 0 – Configura tu entorno Git
 
