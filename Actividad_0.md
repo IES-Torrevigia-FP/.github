@@ -210,10 +210,10 @@ Al finalizar la actividad, este repositorio **debe incluir** al menos:
 
 ## 🧑‍🏫 Nota para el profesorado
 
-- Este repositorio está pensado como **repositorio plantilla** para una **actividad individual** en GitHub Classroom. [web:1][web:3]
+- Este repositorio está pensado como **repositorio plantilla** para una **actividad individual** en GitHub Classroom.
 - Se recomienda:
   - Configurar la actividad como **individual assignment**.
-  - Usar este repositorio como **template repository** en GitHub Classroom. [web:1][web:3][web:8]
+  - Usar este repositorio como **template repository** en GitHub Classroom.
   - Evaluar principalmente:
     - Existencia y contenido de `config-git-global.txt`.
     - Existencia y calidad de `reflexion-repo.md`.
